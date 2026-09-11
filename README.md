@@ -11,7 +11,7 @@
 
 I'm a **backend-oriented software engineer** and Computer Science graduate from Tec de Monterrey. I build production systems that turn complex workflows into reliable APIs, data pipelines, and thoughtful automation.
 
-At **[Adok](https://adokmx.com/)**, I contribute across a product monorepo that combines Python services and TypeScript applications. My work includes document-processing and extraction pipelines, API and schema design, validation, automated tests, and production improvements for legal and notarial workflows.
+My work includes document-processing and extraction pipelines, API and schema design, validation, automated tests, and production improvements workflows.
 
 - ⚙️ I care about clean service boundaries, maintainable APIs, and dependable data flows.
 - 🧠 I build AI-assisted systems with strong validation instead of treating model output as a black box.
