@@ -67,14 +67,6 @@ At **[Adok](https://adokmx.com/)**, I contribute across a product monorepo that 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
 </p>
 
-## GitHub snapshot
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanielMunoz4190&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=00000000" alt="Juan Daniel's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMunoz4190&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" alt="Juan Daniel's most used languages" />
-</p>
-
 <div align="center">
   <sub>Building dependable systems, one well-defined interface at a time.</sub>
 </div>
-
